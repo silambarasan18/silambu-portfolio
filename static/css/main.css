@@ -1,0 +1,50 @@
+html *{
+    font-family:  Century Gothic, Medium, sans-serif;
+}
+
+body{
+    background-color:#d9d9d9!important;
+    
+}
+#profile-wrap{
+    text-align: center;
+}
+#profile-pic{
+    width:120px;
+    height:106px;
+    border-radius:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+ul{
+    padding:0px;
+    list-style-type:none;
+}
+.social-links ul,li{
+    padding:0em;
+    list-style-type:none;
+    display: inline-block;
+}
+.social{
+    width:20px;
+    height:20px;
+}
+
+.headline h5,
+.headline p{
+    margin:0px;
+    display: inline-block;
+    padding: 0em;
+    vertical-align: center;
+    line-height: 28px;
+
+}
+.body-header {
+    color: 373d48;
+    font-family: Century Gothic, Medium, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    width: 100%;
+    padding-top: 10px;
+}
